@@ -1,4 +1,4 @@
-module github.com/tree-sitter/tree-sitter-toybeam
+module github.com/scrogson/tree-sitter-dream
 
 go 1.22
 
